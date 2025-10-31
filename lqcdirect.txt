@@ -5,4 +5,4 @@ DOMAIN,checkport.synology.com
 DOMAIN,ddns.synology.com
 DOMAIN,account.synology.com
 DOMAIN-SUFFIX,synology.com
-# 如果需要所有synology子域名都直连
+DOMAIN-SUFFIX,longcat.chat
