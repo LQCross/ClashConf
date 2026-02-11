@@ -2,5 +2,6 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-KEYWORD,cline
-DOMAIN,ip.skk.moe
-DOMAIN,ifconfig.me
+DOMAIN-SUFFIX,ip.skk.moe
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,t66y.com
