@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,longcat.chat
+DOMAIN-SUFFIX,amap.com
