@@ -1,12 +1,4 @@
-DOMAIN-SUFFIX,synology.cn
-DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,quickconnect.to
-DOMAIN-SUFFIX,quickconnect.cn
-DOMAIN-SUFFIX,akamai.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,dyndns.org
-DOMAIN-SUFFIX,longcat.chat
-DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,qq.com
@@ -45,3 +37,12 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,longcat.chat
+DOMAIN-SUFFIX,amap.com
