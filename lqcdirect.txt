@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,dnse2.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,workbuddy.ai
 DOMAIN-SUFFIX,workbuddy.com
