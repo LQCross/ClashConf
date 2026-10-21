@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,qcgg.fun
 DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,dnse2.com
