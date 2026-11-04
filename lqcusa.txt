@@ -1,0 +1,26 @@
+# Google、Gemini
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# OpenAI、ChatGPT、Codex
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaimerge.com
+
+# Muse
+DOMAIN-SUFFIX,muse.ai
+
+# Grok、xAI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
