@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,us.ip111.cn
 
 # OpenAI、ChatGPT、Codex
 DOMAIN-SUFFIX,openai.com
