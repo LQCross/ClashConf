@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcgg.fun
 DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,weixin.qq.com
