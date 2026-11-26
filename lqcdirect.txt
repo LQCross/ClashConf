@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,workbuddy.ai
 DOMAIN-SUFFIX,workbuddy.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tencentmusic.com
